@@ -1,0 +1,11 @@
+
+.big-banner{
+	background-image: url('assets\images\bgimage.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.container{
+    background-image: url('assets\images\bgimage.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}

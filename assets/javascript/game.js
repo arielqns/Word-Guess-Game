@@ -1,7 +1,7 @@
 //global variables
 //==================================
 //arrays and variables for holding data
-var wordOptions = ["jimmy", "carlos", "daisy", "manny"];
+var wordOptions = ["prince", "rush", "halloween", "metallica", "xtc", "madonna", "queen", "aerosmith", "blondie", "toto", "bananarama"];
 var selectedWord = "";
 var lettersinWord = [];
 var numBlanks = 0;
